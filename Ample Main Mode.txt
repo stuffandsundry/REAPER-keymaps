@@ -1,0 +1,51 @@
+# MIDI note/CC name map
+107 Capo Logic
+106 Riff Play
+105 Tab Play
+104 Open String First
+103 Hit Rim
+102 Hit Top Mute
+101 Hit Top (Open)
+100 Poly Repeater
+99 Auto Legato
+98 Poly Repeater
+97 Strum Toggle
+96 Upstroke Noise 2
+95 Downstroke Noise 2
+94 Upstroke Noise 1
+93 Downstrok Noise 1
+92 Silent Stroke
+91 Silent Press (Mute All Ringing)
+90 Slap
+89 Scratch
+56 Force Capo 16
+55 Force Capo 15
+54 Force Capo 14
+53 Force Capo 13
+52 Force Capo 12
+51 Force Capo 11
+50 Force Capo 10
+49 Force Capo 9
+48 Force Capo 8
+47 Force Capo 7
+46 Force Capo 6
+45 Force Capo 5
+44 Force Capo 4
+43 Force Capo 3
+42 Force Capo 2
+41 Force Capo 1
+40 Open 6E / Force Capo 0
+37 Capo Force
+36 Str Force 1
+35 Str Force 2
+34 Str Force 3
+33 Str Force 4
+32 Str Force 5
+31 Str Force 6
+30 Slide Guitar
+29 HO / PO
+28 Legato Slide
+27 Slide In/Out
+26 Palm Mute
+25 Nat Harm
+24 Sustain
